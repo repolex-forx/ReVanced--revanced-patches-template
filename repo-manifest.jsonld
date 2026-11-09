@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ReVanced/revanced-patches-template/commit/bd4b564fc0fc8f7ade8dcd41eb4aaaf59adad6ae",
       "git:hexsha": "bd4b564fc0fc8f7ade8dcd41eb4aaaf59adad6ae",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.0.4"
     },
     {
